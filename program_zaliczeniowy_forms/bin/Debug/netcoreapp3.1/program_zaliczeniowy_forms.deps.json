@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "program_zaliczeniowy_forms/1.0.0": {
+        "dependencies": {
+          "CarsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "program_zaliczeniowy_forms.dll": {}
+        }
+      },
+      "CarsLibrary/1.0.0": {
+        "runtime": {
+          "CarsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program_zaliczeniowy_forms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

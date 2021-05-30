@@ -1,0 +1,84 @@
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.exe
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.deps.json
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.runtimeconfig.json
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.runtimeconfig.dev.json
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.dll
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.pdb
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csprojAssemblyReference.cache
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Form1.resources
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.GenerateResource.cache
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.AssemblyInfoInputs.cache
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.AssemblyInfo.cs
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.CoreCompileInputs.cache
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.dll
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.pdb
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.genruntimeconfig.cache
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.CopyComplete
+F:\STUDIA\3SEM\paradygmaty\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Properties.Resources.resources
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.exe
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.deps.json
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.runtimeconfig.json
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.runtimeconfig.dev.json
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.dll
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.pdb
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csprojAssemblyReference.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Form1.resources
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Properties.Resources.resources
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.AssemblyInfo.cs
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.CopyComplete
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.dll
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.pdb
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.genruntimeconfig.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Form2.resources
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.exe
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.deps.json
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.runtimeconfig.json
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.runtimeconfig.dev.json
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.dll
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\program_zaliczeniowy_forms.pdb
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csprojAssemblyReference.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Form1.resources
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Form2.resources
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.Properties.Resources.resources
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.GenerateResource.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.AssemblyInfoInputs.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.AssemblyInfo.cs
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.CoreCompileInputs.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.csproj.CopyComplete
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.dll
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.pdb
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\obj\Debug\netcoreapp3.1\program_zaliczeniowy_forms.genruntimeconfig.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\ADVAN10M1.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\ADVAN10M2.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\background.jpg
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\BBRSGT1.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\BBRSGT2.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\C1001.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\C1002.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\carmaker3d_logo.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\carmaker3d_logo_00001.ico
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\INGSBN.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\INGSFB.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\INGSRB.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\INGSSD.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\INGSSP.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\test.jpg
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\thumb-1920-929552.jpg
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\toyotasupraSTOCK.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\toyotasupraVarisFB.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VarisBN.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VarisFB.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VarisRB.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VarisSD.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VarisSP.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VolkTE371.png
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\program_zaliczeniowy_forms\bin\Debug\netcoreapp3.1\Resources\VolkTE372.png

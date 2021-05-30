@@ -1,0 +1,36 @@
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\obj\Debug\netcoreapp3.1\CarsLibrary.csprojAssemblyReference.cache
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfoInputs.cache
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfo.cs
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\obj\Debug\netcoreapp3.1\CarsLibrary.csproj.CoreCompileInputs.cache
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\bin\Debug\netcoreapp3.1\CarsLibrary.deps.json
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\obj\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\CarsLibrary\obj\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.deps.json
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.csprojAssemblyReference.cache
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfoInputs.cache
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfo.cs
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.csproj.CoreCompileInputs.cache
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.pdb
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.deps.json
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.csprojAssemblyReference.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.dll
+C:\Users\user\Desktop\tmp\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.deps.json
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\bin\Debug\netcoreapp3.1\CarsLibrary.pdb
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.csprojAssemblyReference.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfoInputs.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.AssemblyInfo.cs
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.csproj.CoreCompileInputs.cache
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.dll
+F:\STUDIA\3SEM\paradygmaty\KUBA ZALICZENIE PTASZOR\CarsLibraryFroms\obj\Debug\netcoreapp3.1\CarsLibrary.pdb
